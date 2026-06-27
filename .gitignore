@@ -114,7 +114,6 @@ lmcache/experimental/tests
 .idea/
 
 # VSCode
-.vscode/
 
 # Setuptools scm version
 /lmcache/_version.py
@@ -151,3 +150,9 @@ operator/Dockerfile.cross
 
 # Compiled gettext catalogs (built from .po at HTML build time)
 docs/source/locale/**/*.mo
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules

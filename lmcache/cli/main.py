@@ -6,6 +6,8 @@ Subcommands are explicitly registered in
 """
 
 # Standard
+import utils.transport
+import utils.session
 import argparse
 import sys
 
